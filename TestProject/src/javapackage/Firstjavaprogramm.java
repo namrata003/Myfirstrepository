@@ -10,6 +10,6 @@ public class Firstjavaprogramm {
 
     public static void chicken () {
     	System.out.println("Tummy");
-    	System.out.println("hello git");    }
+    	   }
 }
    
